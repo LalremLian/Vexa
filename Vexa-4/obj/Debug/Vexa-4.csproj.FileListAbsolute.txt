@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio\Vexa-4\Vexa-4\bin\Vexa-4.dll.config
+E:\Projects\Visual Studio\Vexa-4\Vexa-4\bin\Vexa-4.dll
+E:\Projects\Visual Studio\Vexa-4\Vexa-4\bin\Vexa-4.pdb
+E:\Projects\Visual Studio\Vexa-4\Vexa-4\obj\Debug\Vexa-4.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio\Vexa-4\Vexa-4\obj\Debug\Vexa-4.dll
+E:\Projects\Visual Studio\Vexa-4\Vexa-4\obj\Debug\Vexa-4.pdb
